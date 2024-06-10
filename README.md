@@ -18,6 +18,7 @@ Agregar los plugins necesarios
 * npm install @angular/fire firebase
 * ionic cap sync
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/4f628e09-b311-4078-b78d-2368e966cb5b)
+
 Configurar Firebase
 Iniciar sesión en Firebase 
 * firebase login
@@ -30,8 +31,10 @@ Inicializar Firebase
 Configurar Firestore y el Entorno
 Agregar la configuración de Firebase a los archivos de entorno
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/52a43abb-0ed5-43e9-8862-0db409648e24)
+
 <br>
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/ac29b45d-bcce-4dbe-8c58-71896fbaac72)
+
 Compilar y Desplegar
 * ionic build
 * firebase deploy
