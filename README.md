@@ -34,7 +34,8 @@ Agregar la configuración de Firebase a los archivos de entorno
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/52a43abb-0ed5-43e9-8862-0db409648e24)
 
 <br>
-![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/ac29b45d-bcce-4dbe-8c58-71896fbaac72)
+
+![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/eb051db6-df9d-4635-bf6c-806b4e72836e)
 
 Compilar y Desplegar
 * ionic build
