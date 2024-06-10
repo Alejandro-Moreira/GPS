@@ -11,6 +11,7 @@ Configurar el Proyecto Ionic
 Crear un nuevo proyecto Ionic
 * ionic start geolocation-app blank --type=angular
 * cd geolocation-app
+
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/29d982f0-da76-4acd-970e-6c1a9b2bfdc4)
 
 Agregar los plugins necesarios
@@ -40,6 +41,7 @@ Compilar y Desplegar
 * firebase deploy
 
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/4fb2ece8-6881-4be7-be66-80e432a35c9b)
+
 <br>
 
 ![image](https://github.com/Alejandro-Moreira/GPS/assets/117743484/38b16a6e-5b9b-463a-9f5b-d912a92676c3)
